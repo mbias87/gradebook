@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mbias\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mbias\\.nuget\\packages"
+    ]
+  }
+}
